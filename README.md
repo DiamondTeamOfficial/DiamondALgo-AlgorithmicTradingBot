@@ -60,4 +60,4 @@ Average Monthly Drawdown: -7.33%
 
 Average Calmr Ratio : 11.000291158487181
 
-Max No Trading Days (All Time): 14 days~~~
+Max No Trading Days (All Time): 14 days
