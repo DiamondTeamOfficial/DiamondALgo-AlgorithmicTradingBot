@@ -31,6 +31,7 @@ Proprietary Entry Signal Methods ✅
 
 
 #
+![image](https://github.com/user-attachments/assets/a8439182-bc1c-4ad6-b51b-bb4dd5644694)
 
 **Backtest** Result of Combined Low-Risk Trading Strategies with Leverage 1 Only on Major Crypto Coins (AI Filter Applied, Commission Included)
 
@@ -65,4 +66,3 @@ Average Monthly Drawdown: -7.33%
 Average Calmr Ratio : 11.000291158487181
 
 Max No Trading Days (All Time): 14 days
-![image](https://github.com/user-attachments/assets/a8439182-bc1c-4ad6-b51b-bb4dd5644694)
