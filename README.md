@@ -5,7 +5,7 @@ Diamond is a reliable and secure trading robot that has been backtested for over
 Diamond gives you scalping and spot signals for cryptocurrencies
 
 
-Multi-Timeframe Analysis ✅
+~~~Multi-Timeframe Analysis ✅
 
 Technical Analysis ✅
 
@@ -21,7 +21,7 @@ Trade Directions Aligned with Daily Timeframe Trends ✅
 
 Proprietary Trend Detection Methods ✅
 
-Proprietary Entry Signal Methods ✅
+Proprietary Entry Signal Methods ✅~~~
 
 
 The Diamond Team assures you that by following our recommended risk management strategies and using only Diamond Bot signals, you can potentially achieve significantly profits.
