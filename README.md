@@ -2,9 +2,6 @@
 Diamond is a reliable and secure trading robot that has been backtested for over 10 years and has consistently delivered profitable performance across all markets (Crypto, Stocks, Forex) .
 
 
-Diamond gives you scalping and spot signals for cryptocurrencies
-
-
 
 
 Multi-Timeframe Analysis ✅
