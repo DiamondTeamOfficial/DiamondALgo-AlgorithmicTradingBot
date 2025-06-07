@@ -31,7 +31,9 @@ Proprietary Entry Signal Methods ✅
 
 
 #
-![image](https://github.com/user-attachments/assets/a8439182-bc1c-4ad6-b51b-bb4dd5644694)
+![image](https://github.com/user-attachments/assets/aebbbe05-5246-4a24-a685-883e3f0a5fec)
+![image](https://github.com/user-attachments/assets/e016539d-474e-4615-857c-a067166c2222)
+![image](https://github.com/user-attachments/assets/1eee036b-b194-4270-b8c5-93f00a2dd005)
 
 **Backtest** Result of Combined Low-Risk Trading Strategies with Leverage 1 Only on Major Crypto Coins (AI Filter Applied, Commission Included)
 
