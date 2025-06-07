@@ -1,8 +1,15 @@
 #
-Diamond is a reliable and secure trading robot that has been backtested for over 10 years and has consistently delivered profitable performance across all markets (Crypto, Stocks, Forex) .
+**Diamond** is a reliable and secure trading robot that has been backtested for over 10 years and has consistently delivered profitable performance across all markets (Crypto, Stocks, Forex) .
 
 
 
+
+
+**The Diamond team has conducted a complete backtest of the bot without overfitting, and the parameters used in all indicators applied in the bot's strategies are the primary parameters of those indicators. This approach significantly enhances the generalizability to new and live market data.**
+
+**Diamond** assures you that by following our recommended risk management strategies and using only Diamond Bot signals, you can potentially achieve **significantly profits**.
+
+Bot Feautures : 
 
 Multi-Timeframe Analysis ✅
 
@@ -23,18 +30,15 @@ Proprietary Trend Detection Methods ✅
 Proprietary Entry Signal Methods ✅
 
 
-
-The Diamond Team assures you that by following our recommended risk management strategies and using only Diamond Bot signals, you can potentially achieve significantly profits.
-
 #
 
-Backtest Result of Combined Low-Risk Trading Strategies with Leverage 1 Only on Major Crypto Coins (AI Filter Applied, Commission Included)
+**Backtest** Result of Combined Low-Risk Trading Strategies with Leverage 1 Only on Major Crypto Coins (AI Filter Applied, Commission Included)
 
-Average Monthly Profit: 22.29% (No Compounding, Variable Entry )
+Average Monthly Profit: **22.29% (No Compounding, Variable Entry )**
 
-These profits were achieved with very low risk (you can manage margin entry yourself for potentially higher returns).  
+**These profits were achieved with very low risk (you can manage margin entry yourself for potentially higher returns)**.  
 
-These profits were achieved with no compound profit (you can apply compounding yourself for significantly higher  profits).
+**These profits were achieved with no compound profit (you can apply compounding yourself for significantly higher  profits)**.
 
 ~~~Performance Summary:
 
@@ -61,3 +65,4 @@ Average Monthly Drawdown: -7.33%
 Average Calmr Ratio : 11.000291158487181
 
 Max No Trading Days (All Time): 14 days
+![image](https://github.com/user-attachments/assets/a8439182-bc1c-4ad6-b51b-bb4dd5644694)
